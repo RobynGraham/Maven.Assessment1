@@ -32,12 +32,15 @@ public class Cat extends Pet {
      * age is 0
      */
     public Cat() {
+
+
     }
 
     /**
      * @return meow as a string
      */
     public String speak() {
+
         return null;
     }
 }

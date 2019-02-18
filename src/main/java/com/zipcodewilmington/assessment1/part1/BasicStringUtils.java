@@ -9,8 +9,11 @@ public class BasicStringUtils {
      * @return string with identical content, and the first character capitalized
      */
     public static String camelCase(String str) {
-        return null;
-    }
+
+
+    return null;
+
+}
 
     /**
      * @param str string input from client
